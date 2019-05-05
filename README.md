@@ -8,3 +8,5 @@ When encrypted a string, get the position of each letter in the string and add i
 When decrypting a string, find the difference between each decrypted letter and its corresponding key letter to get the position of each decrypted letter in the alphabet.
 
 Uppercase and lowercase letters are treated as seperate alphabets, while special characters are ignored (not encrypted).
+
+Wikipedia has a good explanation of this process: https://en.wikipedia.org/wiki/Caesar_cipher
