@@ -9,4 +9,4 @@ When decrypting a string, find the difference between each decrypted letter and 
 
 Uppercase and lowercase letters are treated as seperate alphabets, while special characters are ignored (not encrypted).
 
-Wikipedia has a good explanation of this process: https://en.wikipedia.org/wiki/Caesar_cipher
+I got my explanation for this process from Wikipedia: https://en.wikipedia.org/wiki/Caesar_cipher
